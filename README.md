@@ -20,7 +20,7 @@
 - 🎨 Frontend Software Engineer at **Rightmo Web Solutions**
 - 💡 Experienced in **React.js, Next.js, TypeScript, Tailwind CSS, and more**
 - 🎮 Building indie games and web applications at **Devzer Studios**
-- 🌍 Founder of **OneChariot.lk**, a classified ads platform for Sri Lanka
+- 🌍 Founder of [**Devzer Studios**](https://devzerstudios.com).
 - 📚 Teaching JavaScript and React to aspiring developers
 - 🎓 Graduated from **Coventry University (First Class Division)**
 
