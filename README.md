@@ -107,7 +107,7 @@
 ## 📫 Get in Touch
 
 <p align="center">
-  🔗 <strong>Portfolio:</strong> <a href="https://shalithadev.vercel.app">shalithadev.vercel.app</a><br>
+  🔗 <strong>Portfolio:</strong> <a href="https://hashan.devzerstudios.com">hashan.devzerstudios.com</a><br>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shalithadev">linkedin.com/in/shalithadev</a><br>
   🐦 <strong>Twitter/X:</strong> <a href="https://twitter.com/shalithadev">@shalithadev</a>
 </p>
